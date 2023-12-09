@@ -54,6 +54,7 @@
     width: 557px;
   }
   /* main end */
+  /*  */
   .div-1{
      display:grid;
      grid-template-columns: repeat(3,1fr);
@@ -90,6 +91,7 @@
     margin-left: 25px;
     
   }
+  /* footer */
   .last-div{
     text-align: center;
     
@@ -119,6 +121,7 @@
 margin-left:40px;
 
  }
+ /* footer end */
 
 
   
