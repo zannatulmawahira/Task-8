@@ -53,6 +53,7 @@
     height: 438px;
     width: 557px;
   }
+  /* main end */
   .div-1{
      display:grid;
      grid-template-columns: repeat(3,1fr);
